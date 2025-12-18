@@ -9,7 +9,7 @@
 - Create code blocks in your chosen programming language  
 - Choose from multiple color themes and backgrounds  
 - Adjust font size for readability  
-- Export code as PNG or JPEG images  
+- Export code with or without surrounding background
 - Intuitive and fast user interface  
 
 ---
@@ -18,20 +18,22 @@
 
 - **Frontend:** React, TypeScript  
 - **Styling:** TailwindCSS  
-- **Build Tool:** Vite (if applicable)  
+- **Build Tool:** Vite
 
 ---
 
 ## Supported Languages
 
-Some of the supported languages (adjust based on your implementation):
+Some of supported languages:
 
 - JavaScript  
 - TypeScript  
 - Python  
 - Java  
 - C++  
-- HTML/CSS  
+- GO
+- Ruby
+- HTML 
 
 ---
 
@@ -49,3 +51,4 @@ npm install
 ```bash
 npm run dev
 ```
+
