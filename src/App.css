@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+.jetbrainsmono {
+  font-family: 'JetBrains Mono';
+}
+
+.hljs {
+  background: transparent !important;
+}
+
+* {
+  outline: none !important;
+}
